@@ -1,0 +1,5 @@
+Baseline Model: Linear Regression
+Train size: 565, Test size: 142
+R^2:  0.1774
+MAE:  0.5147
+RMSE: 0.6985
